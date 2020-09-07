@@ -1,14 +1,14 @@
 # Object-Oriented-Programming
 Object oriented programming lectures for computer science students.
 
-## Part 3: Object Oriented `[20H]`
+## Part 3: Object Oriented `[25H]`
 
 ### Lecture 13 - [Object Oriented Overview]()
 ### Lecture 14 - [Data Encapsulation]()
 ### Lecture 15 - [Operator Overloading & Function Overloading]()
 ### Lecture 16 - [Inheritance & Function Overriding]()
 
-## Part 4: Files and Standard Libraries `[20H]`
+## Part 4: Files and Standard Libraries `[25H]`
 
 ### Lecture 17 - [Modules & Standard Libraries]()
 ### Lecture 18 - [Polymorphism & Abstract Class]()
