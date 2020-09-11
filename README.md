@@ -3,7 +3,7 @@ Object oriented programming lectures for computer science students.
 
 ## Part 3: Object Oriented `[25H]`
 
-### Lecture 13 - [Object Oriented Overview]()
+### Lecture 13 - [Object Oriented Overview](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture%2013%20-%20Object%20Oriented%20Overview)
 <details>
 <summary>Object Oriented Overview</summary>
 <br>
@@ -17,7 +17,7 @@ Object oriented programming lectures for computer science students.
 </ul>
 </details>
 
-### Lecture 14 - [Data Encapsulation]()
+### Lecture 14 - [Data Encapsulation](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture%2014%20-%20Data%20Encapsulation)
 <details>
 <summary>Data Encapsulation</summary>
 <br>
@@ -31,7 +31,7 @@ Object oriented programming lectures for computer science students.
 </ul>
 </details>
 
-### Lecture 15 - [Operator Overloading & Function Overloading]()
+### Lecture 15 - [Operator Overloading & Function Overloading](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture%2015%20-%20Operator%20Overloading%20%26%20Function%20Overloading)
 <details>
 <summary>Operator Overloading & Function Overloading</summary>
 <br>
@@ -46,7 +46,7 @@ Object oriented programming lectures for computer science students.
 </ul>
 </details>
 
-### Lecture 16 - [Inheritance & Function Overriding]()
+### Lecture 16 - [Inheritance & Function Overriding](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture%2016%20-%20Inheritance%20%26%20Function%20Overriding)
 <details>
 <summary>Inheritance & Function Overriding</summary>
 <br>
@@ -62,7 +62,7 @@ Object oriented programming lectures for computer science students.
 
 ## Part 4: Files and Standard Libraries `[25H]`
 
-### Lecture 17 - [Modules & Standard Libraries]()
+### Lecture 17 - [Modules & Standard Libraries](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture%2017%20-%20Modules%20%26%20Standard%20Libraries)
 <details>
 <summary>Modules & Standard Libraries in C++</summary>
 <br>
@@ -88,7 +88,7 @@ Object oriented programming lectures for computer science students.
 </ul>
 </details>
 
-### Lecture 18 - [Polymorphism & Abstract Class]()
+### Lecture 18 - [Polymorphism & Abstract Class](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture%2018%20-%20Polymorphism%20%26%20Abstract%20Class)
 <details>
 <summary>Polymorphism & Abstract Class</summary>
 <br>
@@ -101,7 +101,7 @@ Object oriented programming lectures for computer science students.
 </ul>
 </details>
 
-### Lecture 19 - [File Handling]()
+### Lecture 19 - [File Handling](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture%2019%20-%20File%20Handling)
 <details>
 <summary>File Handling</summary>
 <br>
@@ -116,7 +116,7 @@ Object oriented programming lectures for computer science students.
 </ul>
 </details>
 
-### Lecture 20 - [Exception Handling]()
+### Lecture 20 - [Exception Handling](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture%2020%20-%20Exception%20Handling)
 <details>
 <summary>Exception Handling</summary>
 <br>
