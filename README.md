@@ -1,4 +1,4 @@
-# Object-Oriented-Programming
+# Object-Oriented-Programming `50H`
 Object oriented programming lectures for computer science students.
 
 ## Part 3: Object Oriented `[25H]`
@@ -129,3 +129,11 @@ Object oriented programming lectures for computer science students.
   <li>Assertions</li>
 </ul>
 </details>
+
+## Textbooks
+
+* ***Object Oriented Programming In C++***, Robert Lafore
+* ***C++ Primer Stanley***, B. Lippman and Josee lajoie and Barbara E. Moo
+* ***Effective Modern C++***, Scott Meyers
+* ***Accelerated C++***, Andrew Koenig and Barbara E. Moo
+* ***C++: The Complete Reference***, Herbert Schildt
