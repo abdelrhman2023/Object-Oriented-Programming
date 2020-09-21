@@ -133,6 +133,7 @@ Object oriented programming lectures for computer science students.
 ## Textbooks
 
 * ***Object Oriented Programming In C++***, Robert Lafore
+* ***Python 3 Object Oriented Programming***, Dusty Phillips
 * ***C++ Primer Stanley***, B. Lippman and Josee lajoie and Barbara E. Moo
 * ***Effective Modern C++***, Scott Meyers
 * ***Accelerated C++***, Andrew Koenig and Barbara E. Moo
