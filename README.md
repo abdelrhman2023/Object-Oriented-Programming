@@ -137,3 +137,7 @@ Object oriented programming lectures for computer science students.
 * ***Effective Modern C++***, Scott Meyers
 * ***Accelerated C++***, Andrew Koenig and Barbara E. Moo
 * ***C++: The Complete Reference***, Herbert Schildt
+* ***Think Python***, Allen B. Downey
+* ***Learn Python 3 the Hard Way***, Zed A. Shaw
+* ***Effective Python***, Brett Slatkin
+* ***Python Programming***, John Zelle
