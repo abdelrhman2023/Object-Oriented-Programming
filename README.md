@@ -148,37 +148,12 @@ Object oriented programming lectures for computer science students.
 ## Coursera-Specializations
 
 * ***Introduction to Programming in C Specialization*** by Duke University
-  * Programming Fundamentals
-  * Writing, Running, and Fixing Code in C
-  * Pointers, Arrays, and Recursion
-  * Interacting with the System and Managing Memory
 * ***C for Everyone: Programming Fundamentals*** by University of California, Santa Cruz
 * ***C for Everyone: Structured Programming*** by University of California, Santa Cruz
 * ***C++ For C Programmers, Part A*** by University of California, Santa Cruz
 * ***C++ For C Programmers, Part B*** by University of California, Santa Cruz
 * ***Computational Thinking with Beginning C Programming Specialization*** by University of Colorado Boulder
-  * Algorithms, Data Collection, and Starting to Code
-  * Data Analysis and Representation, Selection and Iteration
-  * Abstraction, Problem Decomposition, and Functions
-  * Simulation, Algorithm Analysis, and Pointers
-  
 * ***Introduction to Scripting in Python Specialization*** by Rice University
-  * Python Programming Essentials
-  * Python Data Representations
-  * Python Data Analysis
-  * Python Data Visualization
 * ***Python 3 Programming Specialization*** by University of Michigan
-  * Python Basics
-  * Python Functions, Files, and Dictionaries
-  * Data Collection and Processing with Python
-  * Python Classes and Inheritance
-  * Python Project: pillow, tesseract, and opencv
 * ***Fundamentals of Computing Specialization*** by Rice University
-  * An Introduction to Interactive Programming in Python (Part 1)
-  * An Introduction to Interactive Programming in Python (Part 2)
-  * Principles of Computing (Part 1)
-  * Principles of Computing (Part 2)
-  * Algorithmic Thinking (Part 1)
-  * Algorithmic Thinking (Part 2)
-  * The Fundamentals of Computing Capstone Exam
 * ***Learn to Program: Crafting Quality Code*** by University of Toronto
