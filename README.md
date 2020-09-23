@@ -1,7 +1,7 @@
 # Object-Oriented-Programming `50H`
 Object oriented programming lectures for computer science students.
 
-## Part 3: Object Oriented `[25H]`
+## `Part 3`: Object Oriented `25H`
 
 ### Lecture 13 - [Object Oriented Overview](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture%2013%20-%20Object%20Oriented%20Overview)
 <details>
@@ -60,7 +60,7 @@ Object oriented programming lectures for computer science students.
 </ul>
 </details>
 
-## Part 4: Files and Standard Libraries `[25H]`
+## `Part 4`: Files and Standard Libraries `25H`
 
 ### Lecture 17 - [Modules & Standard Libraries](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture%2017%20-%20Modules%20%26%20Standard%20Libraries)
 <details>
@@ -129,6 +129,8 @@ Object oriented programming lectures for computer science students.
   <li>Assertions</li>
 </ul>
 </details>
+
+<img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/organizations-logos/textbook.jpg">
 
 ## Textbooks
 
