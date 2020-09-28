@@ -24,7 +24,7 @@ Object oriented programming lectures for computer science students.
 <summary>Data Encapsulation</summary>
 <br>
 <ul>
-  <li>Setters & Getters</li>
+  <li>Introduction to Data Encapsulation</li>
   <li>Static Variables</li>
   <li>Static Methods</li>
   <li>Private Variables</li>
