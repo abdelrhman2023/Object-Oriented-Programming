@@ -3,7 +3,7 @@
 # Object-Oriented-Programming `50H`
 Object oriented programming lectures for computer science students.
 
-## `Part 3:` Object Oriented `25H`
+## `Part 3:` Object Oriented `30H`
 
 ### Lecture 13 - [Object Oriented Overview](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture%2013%20-%20Object%20Oriented%20Overview)
 <details>
@@ -62,9 +62,22 @@ Object oriented programming lectures for computer science students.
 </ul>
 </details>
 
-## `Part 4:` Files and Standard Libraries `25H`
+### Lecture 17 - [Polymorphism & Abstract Class](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture%2017%20-%20Polymorphism%20%26%20Abstract%20Class)
+<details>
+<summary>Polymorphism & Abstract Class</summary>
+<br>
+<ul>
+  <li>Introduction to Abstraction</li>
+  <li>Abstract Class</li>
+  <li>Abstract Method</li>
+  <li>Abstract Properties</li>
+  <li>Polymorphism</li>
+</ul>
+</details>
 
-### Lecture 17 - [Modules & Standard Libraries](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture%2017%20-%20Modules%20%26%20Standard%20Libraries)
+## `Part 4:` Files and Standard Libraries `20H`
+
+### Lecture 18 - [Modules & Standard Libraries](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture%2018%20-%20Modules%20%26%20Standard%20Libraries)
 <details>
 <summary>Modules & Standard Libraries in C++</summary>
 <br>
@@ -87,19 +100,6 @@ Object oriented programming lectures for computer science students.
   <li>DateTime Module</li>
   <li>Timedelta Module</li>
   <li>Calendar Module</li>
-</ul>
-</details>
-
-### Lecture 18 - [Polymorphism & Abstract Class](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture%2018%20-%20Polymorphism%20%26%20Abstract%20Class)
-<details>
-<summary>Polymorphism & Abstract Class</summary>
-<br>
-<ul>
-  <li>Introduction to Abstraction</li>
-  <li>Abstract Class</li>
-  <li>Abstract Method</li>
-  <li>Abstract Properties</li>
-  <li>Polymorphism</li>
 </ul>
 </details>
 
@@ -161,3 +161,7 @@ Object oriented programming lectures for computer science students.
 * ***Python 3 Programming Specialization*** by University of Michigan
 * ***Fundamentals of Computing Specialization*** by Rice University
 * ***Learn to Program: Crafting Quality Code*** by University of Toronto
+
+<img align="right" width="90" height="50" src="https://github.com/cs-MohamedAyman/Youtube-Playlists/blob/master/organizations-logos/youtube.jpg">
+
+## Youtube-Playlists
