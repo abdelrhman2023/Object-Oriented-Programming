@@ -1,4 +1,4 @@
-<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
+<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
 
 # Lecture 15 - Operator Overloading and Function Overloading
 ## 15.1- Operator Overloading
