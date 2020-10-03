@@ -55,6 +55,7 @@ Object oriented programming lectures for computer science students.
 ### 18.5- Ctime Module
 ### 18.6- Standard Template Libraries
 
+## Lecture 18 - [Modules and Standard Libraries](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-18-Modules-and-Standard-Libraries)
 ### 18.1- Modules in Python
 ### 18.2- Counter Module
 ### 18.3- DefaultDict Module
