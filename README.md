@@ -1,9 +1,9 @@
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
 
-# Object-Oriented-Programming `50H`
+# Object-Oriented-Programming `40H`
 Object oriented programming lectures for computer science students.
 
-## `Part 3:` Object Oriented `30H`
+## `Part 3:` Object Oriented `25H`
 
 ## Lecture 13 - [Object Oriented Overview](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-13-Object-Oriented-Overview)
 
@@ -15,7 +15,7 @@ Object oriented programming lectures for computer science students.
 
 ## Lecture 17 - [Polymorphism and Abstract Class](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-17-Polymorphism-and-Abstract-Class)
 
-## `Part 4:` Files and Standard Libraries `20H`
+## `Part 4:` Files and Standard Libraries `15H`
 
 ## Lecture 18 - [Modules and Standard Libraries](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-18-Modules-and-Standard-Libraries)
 
