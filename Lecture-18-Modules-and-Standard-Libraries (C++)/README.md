@@ -7,11 +7,3 @@
 ## 18.4- Numeric Module
 ## 18.5- Ctime Module
 ## 18.6- Standard Template Libraries
-
-# Lecture 18 - Modules and Standard Libraries (Python)
-## 18.1- Modules in Python
-## 18.2- Counter Module
-## 18.3- DefaultDict Module
-## 18.4- DateTime Module
-## 18.5- Timedelta Module
-## 18.6- Calendar Module
