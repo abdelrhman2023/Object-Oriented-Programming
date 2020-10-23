@@ -3,14 +3,14 @@
 # Object-Oriented-Programming `40H`
 Object oriented programming lectures for computer science students.
 
-## `Part 3:` Object Oriented `25H`
+## `Part 3:` Object Oriented `20H`
 ## Lecture 13 - [Object Oriented Overview](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-13-Object-Oriented-Overview)
 ## Lecture 14 - [Data Encapsulation](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-14-Data-Encapsulation)
 ## Lecture 15 - [Operator Overloading and Function Overloading](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-15-Operator-Overloading-and-Function-Overloading)
 ## Lecture 16 - [Inheritance and Function Overriding](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-16-Inheritance-and-Function-Overriding)
 ## Lecture 17 - [Polymorphism and Abstract Class](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-17-Polymorphism-and-Abstract-Class)
 
-## `Part 4:` Files and Standard Libraries `15H`
+## `Part 4:` Files and Standard Libraries `20H`
 ## Lecture 18 - [Modules and Standard Libraries (Python)](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-18-Modules-and-Standard-Libraries-(Python))
 ## Lecture 18 - [Modules and Standard Libraries (C++)](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-18-Modules-and-Standard-Libraries-(C%2B%2B))
 ## Lecture 19 - [File Handling](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-19-File-Handling)
