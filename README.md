@@ -68,7 +68,6 @@ Object oriented programming lectures for computer science students.
 * Sundeep Saradhi Kanthety - Python Programming for Beginners
 * Harshit vashisth - Complete Python tutorial in Hindi (2020)
 * Amulya's Academy - Python Programming Video Tutorials for Beginners
-
 * thenewboston - C++ Programming Tutorials Playlist
 * ProgrammingKnowledge - QT C++ GUI Tutorial For Beginners
 * ProgrammingKnowledge - C++ Programming Tutorial for Beginners (For Absolute Beginners)
