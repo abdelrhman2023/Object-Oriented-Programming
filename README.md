@@ -8,11 +8,10 @@ Object oriented programming lectures for computer science students.
 ## Lecture 14 - [Data Encapsulation](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-14-Data-Encapsulation)
 ## Lecture 15 - [Operator Overloading and Function Overloading](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-15-Operator-Overloading-and-Function-Overloading)
 ## Lecture 16 - [Inheritance and Function Overriding](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-16-Inheritance-and-Function-Overriding)
-## Lecture 17 - [Polymorphism and Abstract Class](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-17-Polymorphism-and-Abstract-Class)
 
 ## `Part 4:` Files and Standard Libraries `20H`
-## Lecture 18 - [Modules and Standard Libraries (Python)](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-18-Modules-and-Standard-Libraries-(Python))
-## Lecture 18 - [Modules and Standard Libraries (C++)](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-18-Modules-and-Standard-Libraries-(C%2B%2B))
+## Lecture 17 - [Polymorphism and Abstract Class](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-17-Polymorphism-and-Abstract-Class)
+## Lecture 18 - [Modules and Standard Libraries](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-18-Modules-and-Standard-Libraries)
 ## Lecture 19 - [File Handling](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-19-File-Handling)
 ## Lecture 20 - [Exception Handling](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-20-Exception-Handling)
 
@@ -50,3 +49,36 @@ Object oriented programming lectures for computer science students.
 <img align="right" width="80" height="50" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
 
 ## YouTube-Playlists
+
+* MIT OpenCourseWare - Introduction to Computer Science and Programming in Python. Fall 2016
+* freeCodeCamp.org - Python Tutorials
+* thenewboston - Python 3.4 Programming Tutorials
+* edureka! - Python Tutorial For Beginners
+* Telusko - Python Tutorial for Beginners
+* ProgrammingKnowledge - Python Tutorial for Beginners (For Absolute Beginners)
+* ProgrammingKnowledge - Python 3 Tutorial for Beginners
+* ProgrammingKnowledge - Object-Oriented Programming (OOP) in Python 3
+* Clever Programmer - Learn Python Programming
+* CodeWithHarry - Python Tutorials For Absolute Beginners In Hindi
+* The Net Ninja - Python 3 Tutorial for Beginners
+* Intellipaat - Python Tutorial for Beginners
+* Simplilearn - Python Tutorial Videos
+* Tech With Tim - Python Programming Tutorials
+* Microsoft Developer - Python for Beginners
+* Sundeep Saradhi Kanthety - Python Programming for Beginners
+* Harshit vashisth - Complete Python tutorial in Hindi (2020)
+* Amulya's Academy - Python Programming Video Tutorials for Beginners
+
+* thenewboston - C++ Programming Tutorials Playlist
+* ProgrammingKnowledge - QT C++ GUI Tutorial For Beginners
+* ProgrammingKnowledge - C++ Programming Tutorial for Beginners (For Absolute Beginners)
+* Naresh i Technologies - C++ Programming Language
+* CodeWithHarry - C++ Tutorials In Hindi
+* easytuts4you - C++ Programming Tutorials (HINDI/URDU)
+* by The Cherno - C++
+* Geeky Shows - C++ Programming in Hindi
+* Caleb Curry - C++ Tutorials
+* GeeksforGeeks - C++ Programming Language Tutorials
+* C++ by Saurabh Shukla Sir - C++ by Saurabh Shukla
+* LearningLad - Learn C++ Programming
+* Simple Snippets - C++ Programming Tutorials for Beginners & IT students
