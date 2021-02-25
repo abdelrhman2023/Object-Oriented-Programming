@@ -3,21 +3,60 @@
 # Object-Oriented-Programming `60H`
 Object oriented programming lectures for computer science students.
 
-## `Part 3:` Object Oriented `30H`
-## Lecture 13 - [Object Oriented Overview](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-13-Object-Oriented-Overview)
-## Lecture 14 - [Data Encapsulation](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-14-Data-Encapsulation)
-## Lecture 15 - [Operator Overloading and Function Overloading](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-15-Operator-Overloading-and-Function-Overloading)
-## Lecture 16 - [Inheritance and Function Overriding](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-16-Inheritance-and-Function-Overriding)
+<img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+<br>
 
-## `Part 4:` Files and Standard Libraries `30H`
-## Lecture 17 - [Polymorphism and Abstract Class](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-17-Polymorphism-and-Abstract-Class)
-## Lecture 18 - [Modules and Standard Libraries](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-18-Modules-and-Standard-Libraries)
-## Lecture 19 - [File Handling](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-19-File-Handling)
-## Lecture 20 - [Exception Handling](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-20-Exception-Handling)
+## `Part 3` Object Oriented `30H`
 
+### `Lecture 13` - [Object Oriented Overview](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-13-Object-Oriented-Overview)
+### `Lecture 14` - [Data Encapsulation](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-14-Data-Encapsulation)
+### `Lecture 15` - [Operator Overloading and Function Overloading](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-15-Operator-Overloading-and-Function-Overloading)
+### `Lecture 16` - [Inheritance and Function Overriding](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-16-Inheritance-and-Function-Overriding)
+
+<img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+<br>
+
+## `Part 4` Files and Standard Libraries `30H`
+
+### `Lecture 17` - [Polymorphism and Abstract Class](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-17-Polymorphism-and-Abstract-Class)
+### `Lecture 18` - [Modules and Standard Libraries](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-18-Modules-and-Standard-Libraries)
+### `Lecture 19` - [File Handling](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-19-File-Handling)
+### `Lecture 20` - [Exception Handling](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-20-Exception-Handling)
+
+<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
+<br>
+
+## `Assignments` `50H`
+
+### `Assignment 01` - Basic Operator Problems in [codeforces-phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3)
+### `Assignment 02` - Condition Problems in [codeforces-phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3)
+### `Assignment 03` - Loop Problems in [codeforces-phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3)
+### `Assignment 04` - String Problems in [codeforces-phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3)
+### `Assignment 05` - List Problems in [codeforces-phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3)
+### `Assignment 06` - Basic Operator Problems in [codeforces-phase-1-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-4)
+### `Assignment 07` - Condition Problems in [codeforces-phase-1-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-4)
+### `Assignment 08` - Loop Problems in [codeforces-phase-1-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-4)
+### `Assignment 09` - String Problems in [codeforces-phase-1-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-4)
+### `Assignment 10` - List Problems in [codeforces-phase-1-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-4)
+
+<img align="right" width="230" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
+<br>
+
+## `Educational-Projects` `80H`
+
+### `Project 01` -
+### `Project 02` -
+### `Project 03` -
+### `Project 04` -
+### `Project 05` -
+### `Project 06` -
+### `Project 07` -
+### `Project 08` -
+
+<br>
 <img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
 
-## Textbooks
+## `Textbooks`
 
 * ***Object Oriented Programming In C++***, Robert Lafore
 * ***Python 3 Object Oriented Programming***, Dusty Phillips
@@ -33,7 +72,7 @@ Object oriented programming lectures for computer science students.
 
 <img align="right" width="90" height="50" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
 
-## Coursera-Specializations
+## `Coursera-Specializations`
 
 * ***Introduction to Programming in C Specialization*** by Duke University
 * ***C for Everyone: Programming Fundamentals*** by University of California, Santa Cruz
@@ -48,7 +87,7 @@ Object oriented programming lectures for computer science students.
 
 <img align="right" width="80" height="50" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
 
-## YouTube-Playlists
+## `YouTube-Playlists`
 
 * MIT OpenCourseWare - Introduction to Computer Science and Programming in Python. Fall 2016
 * freeCodeCamp.org - Python Tutorials
@@ -81,7 +120,3 @@ Object oriented programming lectures for computer science students.
 * C++ by Saurabh Shukla Sir - C++ by Saurabh Shukla
 * LearningLad - Learn C++ Programming
 * Simple Snippets - C++ Programming Tutorials for Beginners & IT students
-
-<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
-
-## Educational-Projects
