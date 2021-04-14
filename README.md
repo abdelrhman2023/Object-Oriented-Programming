@@ -6,7 +6,7 @@ Object oriented programming lectures for computer science students.
 <img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 
-## `Part 3` Object Oriented `30 Hrs`
+## `Part 3` Object Oriented `20 Hrs`
 
 ### `Lecture 13` - [Object Oriented Overview](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-13-Object-Oriented-Overview)
 ### `Lecture 14` - [Data Encapsulation](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-14-Data-Encapsulation)
@@ -16,7 +16,7 @@ Object oriented programming lectures for computer science students.
 <img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 
-## `Part 4` Files and Standard Libraries `30 Hrs`
+## `Part 4` Files and Standard Libraries `20 Hrs`
 
 ### `Lecture 17` - [Polymorphism and Abstract Class](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-17-Polymorphism-and-Abstract-Class)
 ### `Lecture 18` - [Modules and Standard Libraries](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-18-Modules-and-Standard-Libraries)
