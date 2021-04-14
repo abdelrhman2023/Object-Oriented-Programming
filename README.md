@@ -11,12 +11,13 @@ Object oriented programming lectures for computer science students.
 ### `Lecture 13` - [Object Oriented Overview](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-13-Object-Oriented-Overview)
 <details>
   <summary>Agenda</summary>
-  * Introduction to OOP
-  * Classes and Objects
-  * Attributes
-  * Methods
-  * Constructors
-  * Destructors
+  
+  - Introduction to OOP
+  - Classes and Objects
+  - Attributes
+  - Methods
+  - Constructors
+  - Destructors
 </details>
 
 ### `Lecture 14` - [Data Encapsulation](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-14-Data-Encapsulation)
