@@ -1,12 +1,12 @@
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/object-oriented.jpg">
 
-# Object-Oriented-Programming `60H`
+# Object-Oriented-Programming
 Object oriented programming lectures for computer science students.
 
 <img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 
-## `Part 3` Object Oriented `30H`
+## `Part 3` Object Oriented `30 Hrs`
 
 ### `Lecture 13` - [Object Oriented Overview](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-13-Object-Oriented-Overview)
 ### `Lecture 14` - [Data Encapsulation](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-14-Data-Encapsulation)
@@ -16,7 +16,7 @@ Object oriented programming lectures for computer science students.
 <img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 
-## `Part 4` Files and Standard Libraries `30H`
+## `Part 4` Files and Standard Libraries `30 Hrs`
 
 ### `Lecture 17` - [Polymorphism and Abstract Class](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-17-Polymorphism-and-Abstract-Class)
 ### `Lecture 18` - [Modules and Standard Libraries](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-18-Modules-and-Standard-Libraries)
@@ -26,23 +26,23 @@ Object oriented programming lectures for computer science students.
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
 <br>
 
-## `Assignments` `50H`
+## `Assignments` `5 Hrs`/`Assignment`
 
-### `Assignment 01` - Basic Operator Problems in [codeforces-phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3)
-### `Assignment 02` - Condition Problems in [codeforces-phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3)
-### `Assignment 03` - Loop Problems in [codeforces-phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3)
-### `Assignment 04` - String Problems in [codeforces-phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3)
-### `Assignment 05` - List Problems in [codeforces-phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3)
-### `Assignment 06` - Basic Operator Problems in [codeforces-phase-1-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-4)
-### `Assignment 07` - Condition Problems in [codeforces-phase-1-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-4)
-### `Assignment 08` - Loop Problems in [codeforces-phase-1-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-4)
-### `Assignment 09` - String Problems in [codeforces-phase-1-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-4)
-### `Assignment 10` - List Problems in [codeforces-phase-1-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-4)
+### `Assignment 01` - 
+### `Assignment 02` - 
+### `Assignment 03` - 
+### `Assignment 04` - 
+### `Assignment 05` - 
+### `Assignment 06` - 
+### `Assignment 07` - 
+### `Assignment 08` - 
+### `Assignment 09` - 
+### `Assignment 10` - 
 
 <img align="right" width="230" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
 <br>
 
-## `Educational-Projects` `100H`
+## `Educational-Projects` `10 Hrs`/`Project`
 
 ### `Project 01` -
 ### `Project 02` -
@@ -77,10 +77,7 @@ Object oriented programming lectures for computer science students.
 ## `Coursera-Specializations`
 
 * ***Introduction to Programming in C Specialization*** by Duke University
-* ***C for Everyone: Programming Fundamentals*** by University of California, Santa Cruz
-* ***C for Everyone: Structured Programming*** by University of California, Santa Cruz
-* ***C++ For C Programmers, Part A*** by University of California, Santa Cruz
-* ***C++ For C Programmers, Part B*** by University of California, Santa Cruz
+* ***Coding for Everyone: C and C++ Specialization*** by University of California, Santa Cruz
 * ***Computational Thinking with Beginning C Programming Specialization*** by University of Colorado Boulder
 * ***Introduction to Scripting in Python Specialization*** by Rice University
 * ***Python 3 Programming Specialization*** by University of Michigan
