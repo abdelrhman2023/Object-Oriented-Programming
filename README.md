@@ -10,8 +10,8 @@ Object oriented programming lectures for computer science students.
 
 ### `Lecture 13` - [Object Oriented Overview](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-13-Object-Oriented-Overview)
 <details>
-  <summary>Agenda</summary>
-  
+  <summary>Agenda</summary><br>
+
   - Introduction to OOP
   - Classes and Objects
   - Attributes
@@ -21,8 +21,41 @@ Object oriented programming lectures for computer science students.
 </details>
 
 ### `Lecture 14` - [Data Encapsulation](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-14-Data-Encapsulation)
+<details>
+  <summary>Agenda</summary><br>
+
+  - Introduction to Data Encapsulation
+  - Static Variables
+  - Static Methods
+  - Private Variables
+  - Private Methods
+  - Class Prototyping
+</details>
+
 ### `Lecture 15` - [Operator Overloading and Function Overloading](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-15-Operator-Overloading-and-Function-Overloading)
+<details>
+  <summary>Agenda</summary><br>
+
+  - Operator Overloading
+  - Input/Output Operators Overloading
+  - Arithmetic Operators Overloading
+  - Binary Operators Overloading
+  - Assignment Operators Overloading
+  - Subscripting Operator Overloading
+  - Function Overloading
+</details>
+
 ### `Lecture 16` - [Inheritance and Function Overriding](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-16-Inheritance-and-Function-Overriding)
+<details>
+  <summary>Agenda</summary><br>
+
+  - Introduction to Inheritance
+  - Access Modifiers
+  - Function Overriding
+  - Multiple Inheritance
+  - Composition Relationship
+  - Aggregation Relationship
+</details>
 
 <img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
@@ -30,9 +63,63 @@ Object oriented programming lectures for computer science students.
 ## `Part 4` Files and Standard Libraries `20 Hrs`
 
 ### `Lecture 17` - [Polymorphism and Abstract Class](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-17-Polymorphism-and-Abstract-Class)
+<details>
+  <summary>Agenda</summary><br>
+
+  - Introduction to Abstraction
+  - Abstract Class
+  - Abstract Method
+  - Abstract Properties
+  - Polymorphism
+</details>
+
 ### `Lecture 18` - [Modules and Standard Libraries](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-18-Modules-and-Standard-Libraries)
+<details>
+  <summary>Agenda</summary><br>
+
+  - Modules in Python
+  - Counter Module
+  - DefaultDict Module
+  - DateTime Module
+  - Timedelta Module
+  - Calendar Module
+</details>
+
+<details>
+  <summary>Agenda</summary><br>
+
+  - Modules in C++
+  - Cmath Module
+  - Random Module
+  - Numeric Module
+  - Ctime Module
+  - Standard Template Libraries
+</details>
+
 ### `Lecture 19` - [File Handling](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-19-File-Handling)
+<details>
+  <summary>Agenda</summary><br>
+
+  - Introduction to File Handling
+  - Text files
+  - CSV files
+  - Json files
+  - XML files
+  - YAML files
+  - INI files
+</details>
+
 ### `Lecture 20` - [Exception Handling](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-20-Exception-Handling)
+<details>
+  <summary>Agenda</summary><br>
+
+  - Introduction to Exception Handling
+  - Types of Exceptions
+  - The except Clause with No Exceptions
+  - The except Clause with Multiple Exceptions
+  - The try/except, else, and finally
+  - Assertions
+</details>
 
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
 <br>
