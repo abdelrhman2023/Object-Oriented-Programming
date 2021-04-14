@@ -7,6 +7,7 @@ Object oriented programming lectures for computer science students.
 <br>
 
 ## `Part 3` Object Oriented `20 Hrs`
+<br>
 
 ### `Lecture 13` - [Object Oriented Overview](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-13-Object-Oriented-Overview)
 <details>
