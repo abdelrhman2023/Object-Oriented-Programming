@@ -6,7 +6,7 @@ Object oriented programming lectures for computer science students.
 <img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 
-## `Part 3` Object Oriented `20 Hrs`
+## `Part 3` Object Oriented `20 hrs`
 <br>
 
 ### `Lecture 13` - [Object Oriented Overview](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-13-Object-Oriented-Overview)
@@ -61,7 +61,7 @@ Object oriented programming lectures for computer science students.
 <img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 
-## `Part 4` Files and Standard Libraries `20 Hrs`
+## `Part 4` Files and Standard Libraries `20 hrs`
 <br>
 
 ### `Lecture 17` - [Polymorphism and Abstract Class](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-17-Polymorphism-and-Abstract-Class)
@@ -126,7 +126,7 @@ Object oriented programming lectures for computer science students.
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
 <br>
 
-## `Assignments` `5 Hrs`/`Assignment`
+## `Assignments` `5 hrs`/`Assignment`
 
 ### `Assignment 01` - 
 ### `Assignment 02` - 
@@ -142,7 +142,7 @@ Object oriented programming lectures for computer science students.
 <img align="right" width="230" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
 <br>
 
-## `Educational-Projects` `10 Hrs`/`Project`
+## `Educational-Projects` `10 hrs`/`Project`
 
 ### `Project 01` -
 ### `Project 02` -
