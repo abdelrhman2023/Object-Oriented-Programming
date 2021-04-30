@@ -15,10 +15,10 @@ Object oriented programming lectures for computer science students.
 
   - Introduction to OOP
   - Classes and Objects
-  - Attributes
-  - Methods
-  - Constructors
-  - Destructors
+  - Class Attributes
+  - Class Methods
+  - Class Constructors
+  - Class Destructors
 </details>
 
 ### `Lecture 14` - [Data Encapsulation](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-14-Data-Encapsulation)
