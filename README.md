@@ -37,7 +37,7 @@ Object oriented programming lectures for computer science students.
 <details>
   <summary>Agenda</summary><br>
 
-  - Operator Overloading
+  - Introduction to Operator Overloading
   - Input/Output Operators Overloading
   - Arithmetic Operators Overloading
   - Binary Operators Overloading
