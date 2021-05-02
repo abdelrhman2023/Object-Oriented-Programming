@@ -17,8 +17,8 @@ Object oriented programming lectures for computer science students.
   - Classes and Objects
   - Class Attributes
   - Class Methods
-  - Class Constructors
-  - Class Destructors
+  - Class Constructor
+  - Class Destructor
 </details>
 
 ### `Lecture 14` - [Data Encapsulation](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-14-Data-Encapsulation)
@@ -26,10 +26,10 @@ Object oriented programming lectures for computer science students.
   <summary>Agenda</summary><br>
 
   - Introduction to Data Encapsulation
-  - Static Variables
-  - Static Methods
   - Private Variables
   - Private Methods
+  - Static Variables
+  - Static Methods
   - Class Prototyping
 </details>
 
