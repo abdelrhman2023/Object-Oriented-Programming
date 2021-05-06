@@ -3,7 +3,7 @@
 # Object-Oriented-Programming
 Object oriented programming lectures for computer science students.
 
-<img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 
 ## `Part 3` Object Oriented `30 hrs`
@@ -17,8 +17,8 @@ Object oriented programming lectures for computer science students.
   - Classes and Objects
   - Class Attributes
   - Class Methods
-  - Class Constructors
-  - Class Destructors
+  - Class Constructor
+  - Class Destructor
 </details>
 
 ### `Lecture 14` - [Data Encapsulation](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-14-Data-Encapsulation)
@@ -26,10 +26,10 @@ Object oriented programming lectures for computer science students.
   <summary>Agenda</summary><br>
 
   - Introduction to Data Encapsulation
-  - Static Variables
-  - Static Methods
   - Private Variables
   - Private Methods
+  - Static Variables
+  - Static Methods
   - Class Prototyping
 </details>
 
@@ -58,7 +58,7 @@ Object oriented programming lectures for computer science students.
   - Aggregation Relationship
 </details>
 
-<img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 
 ## `Part 4` Files and Standard Libraries `30 hrs`
@@ -128,18 +128,18 @@ Object oriented programming lectures for computer science students.
 
 ## `Assignments` `5 hrs`/`Assignment`
 
-### `Assignment 01` - 
-### `Assignment 02` - 
-### `Assignment 03` - 
-### `Assignment 04` - 
-### `Assignment 05` - 
-### `Assignment 06` - 
-### `Assignment 07` - 
-### `Assignment 08` - 
-### `Assignment 09` - 
-### `Assignment 10` - 
+### `Assignment 01` - Basic Operator Problems in [codeforces-phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3)
+### `Assignment 02` - Condition Problems in [codeforces-phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3)
+### `Assignment 03` - Loop Problems in [codeforces-phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3)
+### `Assignment 04` - String Problems in [codeforces-phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3)
+### `Assignment 05` - List Problems in [codeforces-phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3)
+### `Assignment 06` - Basic Operator Problems in [codeforces-phase-1-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-4)
+### `Assignment 07` - Condition Problems in [codeforces-phase-1-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-4)
+### `Assignment 08` - Loop Problems in [codeforces-phase-1-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-4)
+### `Assignment 09` - String Problems in [codeforces-phase-1-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-4)
+### `Assignment 10` - List Problems in [codeforces-phase-1-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-4)
 
-<img align="right" width="230" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
+<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
 <br>
 
 ## `Educational-Projects` `10 hrs`/`Project`
