@@ -128,16 +128,16 @@ Object oriented programming lectures for computer science students.
 
 ## `Assignments` `5 hrs`/`Assignment`
 
-### `Assignment 01` - 
-### `Assignment 02` - 
-### `Assignment 03` - 
-### `Assignment 04` - 
-### `Assignment 05` - 
-### `Assignment 06` - 
-### `Assignment 07` - 
-### `Assignment 08` - 
-### `Assignment 09` - 
-### `Assignment 10` - 
+### `Assignment 01` - Basic Operator Problems in [codeforces-phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3)
+### `Assignment 02` - Condition Problems in [codeforces-phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3)
+### `Assignment 03` - Loop Problems in [codeforces-phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3)
+### `Assignment 04` - String Problems in [codeforces-phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3)
+### `Assignment 05` - List Problems in [codeforces-phase-1-3](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-3)
+### `Assignment 06` - Basic Operator Problems in [codeforces-phase-1-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-4)
+### `Assignment 07` - Condition Problems in [codeforces-phase-1-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-4)
+### `Assignment 08` - Loop Problems in [codeforces-phase-1-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-4)
+### `Assignment 09` - String Problems in [codeforces-phase-1-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-4)
+### `Assignment 10` - List Problems in [codeforces-phase-1-4](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-1/codeforces-phase-1-4)
 
 <img align="right" width="230" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
 <br>
