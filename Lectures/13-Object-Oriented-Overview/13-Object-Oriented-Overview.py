@@ -1,10 +1,10 @@
-class Human():
+class Human:
     pass
 
 x = Human()
 y = Human()
 
-class Human():
+class Human:
     name = ''
     age = 0
     gender = ''
@@ -18,7 +18,7 @@ print(x.name, x.age, x.gender)
 
 #    Jack 24 male
 
-class Human():
+class Human:
     def walking(self):
         print('I am walking now')
     def running(self):
@@ -31,7 +31,7 @@ x.running()
 #    I am walking now
 #    I am running now
 
-class Human():
+class Human:
     def __init__(self):
         self.name = ''
         self.age = 0
@@ -40,7 +40,7 @@ class Human():
 x = Human()
 print(x.name, x.age, x.gender)
 
-class Human():
+class Human:
     def __init__(self, name, age, gender):
         self.name = name
         self.age = age
@@ -51,7 +51,7 @@ print(x.name, x.age, x.gender)
 
 #    Jack 24 male
 
-class Human():
+class Human:
     def __init__(self, name, age):
         self.name = name
         self.age = age
@@ -73,7 +73,7 @@ print('Ref y:', id(y), y.name, y.age)
 
 from copy import deepcopy
 
-class Human():
+class Human:
     def __init__(self, name, age):
         self.name = name
         self.age = age
@@ -92,7 +92,7 @@ print('Ref y:', id(y), y.name, y.age)
 #    Ref x: 140227030686064 Mark 19
 #    Ref y: 140227031389808 Jack 24
 
-class Human():
+class Human:
     def __init__(self):
         print('Human created')
     def __del__(self):
@@ -104,7 +104,7 @@ del x
 #    Human created
 #    Human deleted
 
-class Human():
+class Human:
     def __init__(self, name, age):
         self.name = name
         self.age = age
