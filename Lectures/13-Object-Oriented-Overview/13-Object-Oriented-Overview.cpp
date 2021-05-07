@@ -60,7 +60,6 @@ int main() {
 	cout << x.name << ' ' << x.age << ' ' << x.gender << '\n';
 }
 
-
 class Human {
 public:
 	string name;
@@ -179,7 +178,6 @@ int main() {
 
 //    Human created
 //    Human deleted
-
 
 class Human {
 public:

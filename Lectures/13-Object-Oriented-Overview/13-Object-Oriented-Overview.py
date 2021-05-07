@@ -1,4 +1,3 @@
-
 class Human():
     pass
 
@@ -40,7 +39,6 @@ class Human():
 
 x = Human()
 print(x.name, x.age, x.gender)
-
 
 class Human():
     def __init__(self, name, age, gender):
@@ -88,7 +86,6 @@ x.name = 'Mark'
 x.age = 19
 print('Ref x:', id(x), x.name, x.age)
 print('Ref y:', id(y), y.name, y.age)
-
 
 #    Ref x: 140227030686064 Jack 24
 #    Ref y: 140227031389808 Jack 24
