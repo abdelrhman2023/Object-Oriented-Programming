@@ -43,6 +43,12 @@ public:
     void operator++(int) {
         this->x++, this->y++, this->z++;
     }
+    void operator--() {
+        --this->x, --this->y, --this->z;
+    }
+    void operator--(int) {
+        this->x--, this->y--, this->z--;
+    }
     Point operator+(Point obj) {
         Point p(this->x+obj.x, this->y+obj.y, this->z+obj.z);
         return p;
@@ -70,7 +76,11 @@ int main() {
 	cout << x << ' ' << y << '\n';
 	x = x + y;
 	cout << x << ' ' << y << '\n';
-	y = y + x;
+	x++;
+	y++;
+	cout << x << ' ' << y << '\n';
+	++x;
+	++y;
 	cout << x << ' ' << y << '\n';
 	x = x * 4;
 	y = y * 4;
@@ -81,23 +91,27 @@ int main() {
 	x = x % 5;
 	y = y % 5;
 	cout << x << ' ' << y << '\n';
-	x++;
-	y++;
+	x = x - y;
 	cout << x << ' ' << y << '\n';
-	++x;
-	++y;
+	x--;
+	y--;
+	cout << x << ' ' << y << '\n';
+	--x;
+	--y;
 	cout << x << ' ' << y << '\n';
 }
 
 /*
-Point(0, 0, 0)  Point(2, 3, 1)
-Point(2, 3, 1)  Point(2, 3, 1)
-Point(2, 3, 1)  Point(4, 6, 2)
-Point(8, 12, 4) Point(16, 24, 8)
-Point(4, 6, 2)  Point(8, 12, 4)
-Point(4, 1, 2)  Point(3, 2, 4)
-Point(5, 2, 3)  Point(4, 3, 5)
-Point(6, 3, 4)  Point(5, 4, 6)
+Point(0, 0, 0)     Point(2, 3, 1)
+Point(2, 3, 1)     Point(2, 3, 1)
+Point(3, 4, 2)     Point(3, 4, 2)
+Point(4, 5, 3)     Point(4, 5, 3)
+Point(16, 20, 12)  Point(16, 20, 12)
+Point(8, 10, 6)    Point(8, 10, 6)
+Point(3, 0, 1)     Point(3, 0, 1)
+Point(0, 0, 0)     Point(3, 0, 1)
+Point(-1, -1, -1)  Point(2, -1, 0)
+Point(-2, -2, -2)  Point(1, -2, -1)
 */
 
 class Point {
@@ -281,15 +295,21 @@ int main() {
 	x %= 5;
 	y %= 5;
 	cout << x << ' ' << y << '\n';
+	x -= y;
+	cout << x << ' ' << y << '\n';
+	y -= x;
+	cout << x << ' ' << y << '\n';
 }
 
 /*
-Point(0, 0, 0)  Point(2, 3, 1)
-Point(2, 3, 1)  Point(2, 3, 1)
-Point(2, 3, 1)  Point(4, 6, 2)
-Point(8, 12, 4) Point(16, 24, 8)
-Point(4, 6, 2)  Point(8, 12, 4)
-Point(4, 1, 2)  Point(3, 2, 4)
+Point(0, 0, 0)   Point(2, 3, 1)
+Point(2, 3, 1)   Point(2, 3, 1)
+Point(2, 3, 1)   Point(4, 6, 2)
+Point(8, 12, 4)  Point(16, 24, 8)
+Point(4, 6, 2)   Point(8, 12, 4)
+Point(4, 1, 2)   Point(3, 2, 4)
+Point(1, -1, -2) Point(3, 2, 4)
+Point(1, -1, -2) Point(2, 3, 6)
 */
 
 class Point {
