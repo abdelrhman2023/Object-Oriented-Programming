@@ -9,7 +9,7 @@ Object oriented programming lectures for computer science students.
 ## `Part 3` Object Oriented `30 hrs`
 <br>
 
-### `Lecture 13` - [Object Oriented Overview](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-13-Object-Oriented-Overview)
+### `Lecture 13` - [Object Oriented Overview](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -21,7 +21,7 @@ Object oriented programming lectures for computer science students.
   - Class Destructor
 </details>
 
-### `Lecture 14` - [Data Encapsulation](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-14-Data-Encapsulation)
+### `Lecture 14` - [Data Encapsulation](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -33,20 +33,20 @@ Object oriented programming lectures for computer science students.
   - Class Prototyping
 </details>
 
-### `Lecture 15` - [Operator Overloading and Function Overloading](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-15-Operator-Overloading-and-Function-Overloading)
+### `Lecture 15` - [Operator Overloading and Function Overloading](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
   - Introduction to Operator Overloading
   - Input/Output Operators Overloading
   - Arithmetic Operators Overloading
-  - Binary Operators Overloading
+  - Bitwise Operators Overloading
   - Assignment Operators Overloading
   - Subscripting Operator Overloading
   - Function Overloading
 </details>
 
-### `Lecture 16` - [Inheritance and Function Overriding](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-16-Inheritance-and-Function-Overriding)
+### `Lecture 16` - [Inheritance and Function Overriding](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -64,7 +64,7 @@ Object oriented programming lectures for computer science students.
 ## `Part 4` Files and Standard Libraries `30 hrs`
 <br>
 
-### `Lecture 17` - [Polymorphism and Abstract Class](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-17-Polymorphism-and-Abstract-Class)
+### `Lecture 17` - [Polymorphism and Abstract Class](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -75,7 +75,7 @@ Object oriented programming lectures for computer science students.
   - Polymorphism
 </details>
 
-### `Lecture 18` - [Modules and Standard Libraries](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-18-Modules-and-Standard-Libraries)
+### `Lecture 18` - [Modules and Standard Libraries](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -98,7 +98,7 @@ Object oriented programming lectures for computer science students.
   - Standard Template Libraries
 </details>
 
-### `Lecture 19` - [File Handling](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-19-File-Handling)
+### `Lecture 19` - [File Handling](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -111,7 +111,7 @@ Object oriented programming lectures for computer science students.
   - INI files
 </details>
 
-### `Lecture 20` - [Exception Handling](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lecture-20-Exception-Handling)
+### `Lecture 20` - [Exception Handling](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
