@@ -244,7 +244,7 @@ class Points:
         self.__N = N
         self.__pnts = [Point() for i in range(N)]
     def __getitem__(self, idx):
-        if i >= N or i < -N:
+        if i >= self.__N or i < -self.__N:
             print('Index out of bounds')
             return Point()
         return self.__pnts[idx]

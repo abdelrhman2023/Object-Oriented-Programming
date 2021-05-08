@@ -345,4 +345,8 @@ Point(2, 8, -1)
 Point(7, 1, -2)
 Point(3, 1, 4)
 Point(3, 1, 4)
+Index out of bounds
+Point(0, 0, 0)
+Index out of bounds
+Point(0, 0, 0)
 */
