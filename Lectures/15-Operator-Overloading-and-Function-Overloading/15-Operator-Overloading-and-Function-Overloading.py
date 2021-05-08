@@ -48,6 +48,8 @@ print(x, y)
 x = x % 5
 y = y % 5
 print(x, y)
+x = x - y
+print(x, y)
 x = x ** 2
 y = y ** 2
 print(x, y)
@@ -56,14 +58,15 @@ y = y / 1
 print(x, y)
 
 '''
-Point(0, 0, 0)        Point(2, 3, 1)
-Point(2, 3, 1)        Point(2, 3, 1)
-Point(2, 3, 1)        Point(4, 6, 2)
-Point(8, 12, 4)       Point(16, 24, 8)
-Point(4, 6, 2)        Point(8, 12, 4)
-Point(4, 1, 2)        Point(3, 2, 4)
-Point(16, 1, 4)       Point(9, 4, 16)
-Point(16.0, 1.0, 4.0) Point(9.0, 4.0, 16.0)
+Point(0, 0, 0)       Point(2, 3, 1)
+Point(2, 3, 1)       Point(2, 3, 1)
+Point(2, 3, 1)       Point(4, 6, 2)
+Point(8, 12, 4)      Point(16, 24, 8)
+Point(4, 6, 2)       Point(8, 12, 4)
+Point(4, 1, 2)       Point(3, 2, 4)
+Point(1, -1, -2)     Point(3, 2, 4)
+Point(1, 1, 4)       Point(9, 4, 16)
+Point(1.0, 1.0, 4.0) Point(9.0, 4.0, 16.0)
 '''
 
 class Point:
@@ -220,6 +223,10 @@ print(x, y)
 x **= 2
 y **= 2
 print(x, y)
+x -= y
+print(x, y)
+y -= x
+print(x, y)
 
 '''
 Point(0, 0, 0) Point(2, 3, 1)
@@ -229,6 +236,8 @@ Point(8, 12, 4) Point(16, 24, 8)
 Point(4, 6, 2) Point(8, 12, 4)
 Point(4, 1, 2) Point(3, 2, 4)
 Point(16, 1, 4) Point(9, 4, 16)
+Point(7, -3, -12) Point(9, 4, 16)
+Point(7, -3, -12) Point(2, 7, 28)
 '''
 
 class Point:
