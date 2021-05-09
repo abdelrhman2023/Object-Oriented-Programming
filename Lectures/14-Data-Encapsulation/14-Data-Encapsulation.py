@@ -1,4 +1,4 @@
-class Human():
+class Human:
     def __init__(self, name, age):
         self.name = name
         self.age = age
@@ -20,7 +20,7 @@ print(x.get_name(), x.get_age())
 #    Jack 24
 #    Muller 27
 
-class Human():
+class Human:
     def __init__(self, name, age):
         self.name = name
         self.age = age
@@ -44,7 +44,7 @@ print(x.get_name(), x.get_age())
 #    Jack 24
 #    Muller 24
 
-class Human():
+class Human:
     def __init__(self, name, age):
         self.__name = name
         self.__age = age
@@ -73,7 +73,7 @@ Traceback (most recent call last):
 AttributeError: 'Human' object has no attribute '__age'
 '''
 
-class Human():
+class Human:
     def __init__(self):
         self.__name = ''
     def __set_full_name(self, full_name):
@@ -97,7 +97,7 @@ Traceback (most recent call last):
 AttributeError: 'Human' object has no attribute '__set_full_name'
 '''
 
-class Employee():
+class Employee:
 	def __init__(self):
 		self.__salary = 0
 	def __get_net_salary(self):
