@@ -5,11 +5,11 @@ Object oriented programming lectures for computer science students.
 <br>
 <br>
 
-## `Part 3` Object Oriented `25 hrs`
+## `Part 1` Object Oriented `25 hrs`
 
 <img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
-### `Lecture 13` - [Object Oriented Overview](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lectures/README.md)
+### `Lecture 01` - [Object Oriented Overview](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -21,7 +21,7 @@ Object oriented programming lectures for computer science students.
   - Class Destructor
 </details>
 
-### `Lecture 14` - [Data Encapsulation](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lectures/README.md)
+### `Lecture 02` - [Data Encapsulation](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -33,7 +33,7 @@ Object oriented programming lectures for computer science students.
   - Class Prototyping
 </details>
 
-### `Lecture 15` - [Operator Overloading and Function Overloading](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lectures/README.md)
+### `Lecture 03` - [Operator Overloading and Function Overloading](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -46,7 +46,7 @@ Object oriented programming lectures for computer science students.
   - Function Overloading
 </details>
 
-### `Lecture 16` - [Inheritance and Function Overriding](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lectures/README.md)
+### `Lecture 04` - [Inheritance and Function Overriding](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -62,11 +62,11 @@ Object oriented programming lectures for computer science students.
 <br>
 <br>
 
-## `Part 4` Files and Standard Libraries `25 hrs`
+## `Part 2` Files and Standard Libraries `25 hrs`
 
 <img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
-### `Lecture 17` - [Polymorphism and Abstract Class](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lectures/README.md)
+### `Lecture 05` - [Polymorphism and Abstract Class](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -77,7 +77,7 @@ Object oriented programming lectures for computer science students.
   - Polymorphism
 </details>
 
-### `Lecture 18` - [Modules and Standard Libraries](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lectures/README.md)
+### `Lecture 06` - [Modules and Standard Libraries](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -100,7 +100,7 @@ Object oriented programming lectures for computer science students.
   - Standard Template Libraries
 </details>
 
-### `Lecture 19` - [File Handling](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lectures/README.md)
+### `Lecture 07` - [File Handling](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -113,7 +113,7 @@ Object oriented programming lectures for computer science students.
   - INI files
 </details>
 
-### `Lecture 20` - [Exception Handling](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lectures/README.md)
+### `Lecture 08` - [Exception Handling](https://github.com/cs-MohamedAyman/Object-Oriented-Programming/tree/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
