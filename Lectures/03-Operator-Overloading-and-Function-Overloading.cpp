@@ -15,11 +15,11 @@ public:
     }
 };
 int main() {
-    Point x;
-	Point y(2, 3, 1);
-	cout << x << ' ' << y << '\n';
-    cin >> x >> y;
-	cout << x << ' ' << y << '\n';
+    Point p1;
+	Point p2(2, 3, 1);
+	cout << p1 << ' ' << p2 << '\n';
+    cin >> p1 >> p2;
+	cout << p1 << ' ' << p2 << '\n';
 }
 
 /*
@@ -71,47 +71,50 @@ public:
     }
 };
 int main() {
-	Point x;
-	Point y(2, 3, 1);
-	cout << x << ' ' << y << '\n';
-	x = x + y;
-	cout << x << ' ' << y << '\n';
-	x++;
-	y++;
-	cout << x << ' ' << y << '\n';
-	++x;
-	++y;
-	cout << x << ' ' << y << '\n';
-	x = x * 4;
-	y = y * 4;
-	cout << x << ' ' << y << '\n';
-	x = x / 2;
-	y = y / 2;
-	cout << x << ' ' << y << '\n';
-	x = x % 5;
-	y = y % 5;
-	cout << x << ' ' << y << '\n';
-	x = x - y;
-	cout << x << ' ' << y << '\n';
-	x--;
-	y--;
-	cout << x << ' ' << y << '\n';
-	--x;
-	--y;
-	cout << x << ' ' << y << '\n';
+	Point p1;
+	Point p2(2, 3, 1);
+	cout << p1 << ' ' << p2 << '\n';
+	p1 = p1 + p2;
+	cout << p1 << ' ' << p2 << '\n';
+	p2 = p2 + p1;
+	cout << p1 << ' ' << p2 << '\n';
+	p1++;
+	p2++;
+	cout << p1 << ' ' << p2 << '\n';
+	++p1;
+	++p2;
+	cout << p1 << ' ' << p2 << '\n';
+	p1 = p1 * 4;
+	p2 = p2 * 4;
+	cout << p1 << ' ' << p2 << '\n';
+	p1 = p1 / 2;
+	p2 = p2 / 2;
+	cout << p1 << ' ' << p2 << '\n';
+	p1 = p1 % 5;
+	p2 = p2 % 5;
+	cout << p1 << ' ' << p2 << '\n';
+	p1 = p1 - p2;
+	cout << p1 << ' ' << p2 << '\n';
+	p1--;
+	p2--;
+	cout << p1 << ' ' << p2 << '\n';
+	--p1;
+	--p2;
+	cout << p1 << ' ' << p2 << '\n';
 }
 
 /*
-Point(0, 0, 0)     Point(2, 3, 1)
-Point(2, 3, 1)     Point(2, 3, 1)
-Point(3, 4, 2)     Point(3, 4, 2)
-Point(4, 5, 3)     Point(4, 5, 3)
-Point(16, 20, 12)  Point(16, 20, 12)
-Point(8, 10, 6)    Point(8, 10, 6)
-Point(3, 0, 1)     Point(3, 0, 1)
-Point(0, 0, 0)     Point(3, 0, 1)
-Point(-1, -1, -1)  Point(2, -1, 0)
-Point(-2, -2, -2)  Point(1, -2, -1)
+Point(0, 0, 0)    Point(2, 3, 1)
+Point(2, 3, 1)    Point(2, 3, 1)
+Point(2, 3, 1)    Point(4, 6, 2)
+Point(3, 4, 2)    Point(5, 7, 3)
+Point(4, 5, 3)    Point(6, 8, 4)
+Point(16, 20, 12) Point(24, 32, 16)
+Point(8, 10, 6)   Point(12, 16, 8)
+Point(3, 0, 1)    Point(2, 1, 3)
+Point(1, -1, -2)  Point(2, 1, 3)
+Point(0, -2, -3)  Point(1, 0, 2)
+Point(-1, -3, -4) Point(0, -1, 1)
 */
 
 class Point {
@@ -150,15 +153,15 @@ public:
 	}
 };
 int main() {
-	Point x(4, 1, 3);
-	Point y(4, 1, 3);
-	cout << x << ' ' << y << '\n';
-	cout << (x == y) << '\n';
-	cout << (x != y) << '\n';
-	cout << (x < y) << '\n';
-	cout << (x <= y) << '\n';
-	cout << (x > y) << '\n';
-	cout << (x >= y) << '\n';
+	Point p1(4, 1, 3);
+	Point p2(4, 1, 3);
+	cout << p1 << ' ' << p2 << '\n';
+	cout << (p1 == p2) << '\n';
+	cout << (p1 != p2) << '\n';
+	cout << (p1 < p2) << '\n';
+	cout << (p1 <= p2) << '\n';
+	cout << (p1 > p2) << '\n';
+	cout << (p1 >= p2) << '\n';
 }
 
 /*
@@ -213,32 +216,32 @@ public:
     }
 };
 int main() {
-	Point x(3, 2, 5);
-	Point y(4, 1, 2);
-	cout << x << ' ' << y << '\n';
-	x = x << 3;
-	y = y << 2;
-	cout << x << ' ' << y << '\n';
-	x = x >> 1;
-	y = y >> 1;
-	cout << x << ' ' << y << '\n';
-	x = x & y;
-	cout << x << ' ' << y << '\n';
-	y = y | x;
-	cout << x << ' ' << y << '\n';
-	x = x ^ y;
-	cout << x << ' ' << y << '\n';
-	y = y ^ x;
-	cout << x << ' ' << y << '\n';
-	x = ~x;
-	y = ~y;
-	cout << x << ' ' << y << '\n';
-	x = -x;
-	y = -y;
-	cout << x << ' ' << y << '\n';
-	x = +x;
-	y = +y;
-	cout << x << ' ' << y << '\n';
+	Point p1(3, 2, 5);
+	Point p2(4, 1, 2);
+	cout << p1 << ' ' << p2 << '\n';
+	p1 = p1 << 3;
+	p2 = p2 << 2;
+	cout << p1 << ' ' << p2 << '\n';
+	p1 = p1 >> 1;
+	p2 = p2 >> 1;
+	cout << p1 << ' ' << p2 << '\n';
+	p1 = p1 & p2;
+	cout << p1 << ' ' << p2 << '\n';
+	p2 = p2 | p1;
+	cout << p1 << ' ' << p2 << '\n';
+	p1 = p1 ^ p2;
+	cout << p1 << ' ' << p2 << '\n';
+	p2 = p2 ^ p1;
+	cout << p1 << ' ' << p2 << '\n';
+	p1 = ~p1;
+	p2 = ~p2;
+	cout << p1 << ' ' << p2 << '\n';
+	p1 = -p1;
+	p2 = -p2;
+	cout << p1 << ' ' << p2 << '\n';
+	p1 = +p1;
+	p2 = +p2;
+	cout << p1 << ' ' << p2 << '\n';
 }
 
 /*
@@ -279,26 +282,26 @@ public:
     }
 };
 int main() {
-	Point x;
-	Point y(2, 3, 1);
-	cout << x << ' ' << y << '\n';
-	x += y;
-	cout << x << ' ' << y << '\n';
-	y += x;
-	cout << x << ' ' << y << '\n';
-	x *= 4;
-	y *= 4;
-	cout << x << ' ' << y << '\n';
-	x /= 2;
-	y /= 2;
-	cout << x << ' ' << y << '\n';
-	x %= 5;
-	y %= 5;
-	cout << x << ' ' << y << '\n';
-	x -= y;
-	cout << x << ' ' << y << '\n';
-	y -= x;
-	cout << x << ' ' << y << '\n';
+	Point p1;
+	Point p2(2, 3, 1);
+	cout << p1 << ' ' << p2 << '\n';
+	p1 += p2;
+	cout << p1 << ' ' << p2 << '\n';
+	p2 += p1;
+	cout << p1 << ' ' << p2 << '\n';
+	p1 *= 4;
+	p2 *= 4;
+	cout << p1 << ' ' << p2 << '\n';
+	p1 /= 2;
+	p2 /= 2;
+	cout << p1 << ' ' << p2 << '\n';
+	p1 %= 5;
+	p2 %= 5;
+	cout << p1 << ' ' << p2 << '\n';
+	p1 -= p2;
+	cout << p1 << ' ' << p2 << '\n';
+	p2 -= p1;
+	cout << p1 << ' ' << p2 << '\n';
 }
 
 /*
@@ -348,13 +351,13 @@ public:
 };
 int main() {
 	int N = 5;
-    Point x(3, 1, 4), y(2, 8, -1), z(7, 1, -2);
+    Point p1(3, 1, 4), p2(2, 8, -1), p3(7, 1, -2);
 	Points arr(N);
-	arr[0] = y;
-	arr[-1] = x;
-	arr[1] = y;
-	arr[-2] = x;
-	arr[2] = z;
+	arr[0] = p2;
+	arr[-1] = p1;
+	arr[1] = p2;
+	arr[-2] = p1;
+	arr[2] = p3;
 	for (int i = 0; i < N+2; i++)
 		cout << arr[i] << '\n';
 }

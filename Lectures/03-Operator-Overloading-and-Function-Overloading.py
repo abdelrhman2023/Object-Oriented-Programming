@@ -4,9 +4,9 @@ class Point:
     def __str__(self):
         return 'Point(%d, %d, %d)' % (self.x, self.y, self.z)
 
-x = Point()
-y = Point(2, 3, 1)
-print(x, y)
+p1 = Point()
+p2 = Point(2, 3, 1)
+print(p1, p2)
 
 '''
 Point(0, 0, 0)  Point(2, 3, 1)
@@ -32,30 +32,30 @@ class Point:
     def __pow__(self, scalar):
         return Point(self.x ** scalar, self.y ** scalar, self.z ** scalar)
 
-x = Point()
-y = Point(2, 3, 1)
-print(x, y)
-x = x + y
-print(x, y)
-y = y + x
-print(x, y)
-x = x * 4
-y = y * 4
-print(x, y)
-x = x // 2
-y = y // 2
-print(x, y)
-x = x % 5
-y = y % 5
-print(x, y)
-x = x - y
-print(x, y)
-x = x ** 2
-y = y ** 2
-print(x, y)
-x = x / 1
-y = y / 1
-print(x, y)
+p1 = Point()
+p2 = Point(2, 3, 1)
+print(p1, p2)
+p1 = p1 + p2
+print(p1, p2)
+p2 = p2 + p1
+print(p1, p2)
+p1 = p1 * 4
+p2 = p2 * 4
+print(p1, p2)
+p1 = p1 // 2
+p2 = p2 // 2
+print(p1, p2)
+p1 = p1 % 5
+p2 = p2 % 5
+print(p1, p2)
+p1 = p1 - p2
+print(p1, p2)
+p1 = p1 ** 2
+p2 = p2 ** 2
+print(p1, p2)
+p1 = p1 / 1
+p2 = p2 / 1
+print(p1, p2)
 
 '''
 Point(0, 0, 0)       Point(2, 3, 1)
@@ -95,15 +95,15 @@ class Point:
     def __ne__(self, obj):
         return not(self.x == obj.x and self.y == obj.y and self.z == obj.z)
 
-x = Point(4, 1, 3)
-y = Point(4, 1, 3)
-print(x, y)
-print(x == y)
-print(x != y)
-print(x < y)
-print(x <= y)
-print(x > y)
-print(x >= y)
+p1 = Point(4, 1, 3)
+p2 = Point(4, 1, 3)
+print(p1, p2)
+print(p1 == p2)
+print(p1 != p2)
+print(p1 < p2)
+print(p1 <= p2)
+print(p1 > p2)
+print(p1 >= p2)
 
 '''
 Point(4, 1, 3) Point(4, 1, 3)
@@ -137,32 +137,32 @@ class Point:
     def __neg__(self):
         return Point(-self.x, -self.y, -self.z)
 
-x = Point(3, 2, 5)
-y = Point(4, 1, 2)
-print(x, y)
-x = x << 3
-y = y << 2
-print(x, y)
-x = x >> 1
-y = y >> 1
-print(x, y)
-x = x & y
-print(x, y)
-y = y | x
-print(x, y)
-x = x ^ y
-print(x, y)
-y = y ^ x
-print(x, y)
-x = ~x
-y = ~y
-print(x, y)
-x = -x
-y = -y
-print(x, y)
-x = +x
-y = +y
-print(x, y)
+p1 = Point(3, 2, 5)
+p2 = Point(4, 1, 2)
+print(p1, p2)
+p1 = p1 << 3
+p2 = p2 << 2
+print(p1, p2)
+p1 = p1 >> 1
+p2 = p2 >> 1
+print(p1, p2)
+p1 = p1 & p2
+print(p1, p2)
+p2 = p2 | p1
+print(p1, p2)
+p1 = p1 ^ p2
+print(p1, p2)
+p2 = p2 ^ p1
+print(p1, p2)
+p1 = ~p1
+p2 = ~p2
+print(p1, p2)
+p1 = -p1
+p2 = -p2
+print(p1, p2)
+p1 = +p1
+p2 = +p2
+print(p1, p2)
 
 '''
 Point(3, 2, 5)    Point(4, 1, 2)
@@ -204,41 +204,67 @@ class Point:
         self.x **= scalar ; self.y **= scalar ; self.z **= scalar
         return self
 
-x = Point()
-y = Point(2, 3, 1)
-print(x, y)
-x += y
-print(x, y)
-y += x
-print(x, y)
-x *= 4
-y *= 4
-print(x, y)
-x //= 2
-y //= 2
-print(x, y)
-x %= 5
-y %= 5
-print(x, y)
-x **= 2
-y **= 2
-print(x, y)
-x -= y
-print(x, y)
-y -= x
-print(x, y)
+p1 = Point()
+p2 = Point(2, 3, 1)
+print(p1, p2)
+p1 += p2
+print(p1, p2)
+p2 += p1
+print(p1, p2)
+p1 *= 4
+p2 *= 4
+print(p1, p2)
+p1 //= 2
+p2 //= 2
+print(p1, p2)
+p1 %= 5
+p2 %= 5
+print(p1, p2)
+p1 **= 2
+p2 **= 2
+print(p1, p2)
+p1 -= p2
+print(p1, p2)
+p2 -= p1
+print(p1, p2)
 
 '''
-Point(0, 0, 0) Point(2, 3, 1)
-Point(2, 3, 1) Point(2, 3, 1)
-Point(2, 3, 1) Point(4, 6, 2)
-Point(8, 12, 4) Point(16, 24, 8)
-Point(4, 6, 2) Point(8, 12, 4)
-Point(4, 1, 2) Point(3, 2, 4)
-Point(16, 1, 4) Point(9, 4, 16)
+Point(0, 0, 0)    Point(2, 3, 1)
+Point(2, 3, 1)    Point(2, 3, 1)
+Point(2, 3, 1)    Point(4, 6, 2)
+Point(8, 12, 4)   Point(16, 24, 8)
+Point(4, 6, 2)    Point(8, 12, 4)
+Point(4, 1, 2)    Point(3, 2, 4)
+Point(16, 1, 4)   Point(9, 4, 16)
 Point(7, -3, -12) Point(9, 4, 16)
 Point(7, -3, -12) Point(2, 7, 28)
 '''
+
+class Point:
+    def __init__(self, x=0, y=0, z=0):
+        self.x = x ; self.y = y ; self.z = z
+    def __str__(self):
+        return 'Point(%d, %d, %d)' % (self.x, self.y, self.z)
+    def __getitem__(self, idx):
+        if idx == 0 or idx == -3: return self.x
+        if idx == 1 or idx == -2: return self.y
+        if idx == 2 or idx == -1: return self.z
+        print('Index out of bounds')
+        return -(1<<63)
+    def __setitem__(self, idx, item):
+        if idx == 0 or idx == -3: self.x = item
+        if idx == 1 or idx == -2: self.y = item
+        if idx == 2 or idx == -1: self.z = item
+
+p = Point(3, 1, 4)
+print(p[0])
+print(p[1])
+print(p[2])
+print(p[-1])
+print(p[-2])
+print(p[-3])
+print(p[3])
+print(p[-4])
 
 class Point:
     def __init__(self, x=0, y=0, z=0):
@@ -258,18 +284,19 @@ class Points:
             return Point()
         return self.__pnts[idx]
     def __setitem__(self, idx, item):
-        self.__pnts[idx].copy(item)
+        if -self.__N <= idx < self.__N:
+            self.__pnts[idx].copy(item)
 
 N = 5
-x = Point(3, 1, 4)
-y = Point(2, 8, -1)
-z = Point(7, 1, -2)
+p1 = Point(3, 1, 4)
+p2 = Point(2, 8, -1)
+p3 = Point(7, 1, -2)
 arr = Points(N)
-arr[0] = y
-arr[-1] = x
-arr[1] = y
-arr[-2] = x
-arr[2] = z
+arr[0] = p2
+arr[-1] = p1
+arr[1] = p2
+arr[-2] = p1
+arr[2] = p3
 for i in range(N+2):
     print(arr[i])
 
